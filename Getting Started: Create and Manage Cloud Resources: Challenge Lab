@@ -1,0 +1,40 @@
+#Getting Started: Create and Manage Cloud Resources: Challenge Lab
+1 hour
+5 Credits
+GSP313
+Google Cloud Self-Paced Labs
+
+Overview
+You must complete a series of tasks within the allocated time period. Instead of following step-by-step instructions, you'll be given a scenario and a set of tasks - you figure out how to complete it on your own! An automated scoring system (shown on this page) will provide feedback on whether you have completed your tasks correctly.
+
+To score 100% you must complete all tasks within the time period!
+
+When you take a Challenge Lab, you will not be taught Google Cloud concepts. To build the solution to the challenge presented, use skills learned from the labs in the quest this challenge lab is part of. You will be expected to extend your learned skills; you will be expected to change default values, but new concepts will not be introduced.
+
+This lab is only recommended for students who have completed the labs in the Getting Started: Create and Manage Cloud Resources Quest. Are you up for the challenge?
+
+Please make sure you review the labs in the Getting Started: Create and Manage Cloud Resources quest before starting this lab!
+Topics tested:
+
+Create an instance.
+Create a 3 node Kubernetes cluster and run a simple service.
+Create an HTTP(s) Load Balancer in front of two web servers.
+Setup
+Before you click the Start Lab button
+Read these instructions. Labs are timed and you cannot pause them. The timer, which starts when you click Start Lab, shows how long Google Cloud resources will be made available to you.
+
+This Qwiklabs hands-on lab lets you do the lab activities yourself in a real cloud environment, not in a simulation or demo environment. It does so by giving you new, temporary credentials that you use to sign in and access Google Cloud for the duration of the lab.
+
+What you need
+To complete this lab, you need:
+
+Access to a standard internet browser (Chrome browser recommended).
+Time to complete the lab.
+Note: If you already have your own personal Google Cloud account or project, do not use it for this lab.
+
+Note: If you are using a Pixelbook, open an Incognito window to run this lab.
+
+Join Qwiklabs to read the rest of this lab...and more!
+Get temporary access to the Google Cloud Console.
+Over 200 labs from beginner to advanced levels.
+Bite-sized so you can learn at your own pace.
