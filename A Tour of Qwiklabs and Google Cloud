@@ -1,0 +1,43 @@
+#A Tour of Qwiklabs and Google Cloud
+45 minutes
+Free
+GSP282
+Google Cloud Self-Paced Labs
+
+Overview
+Google Cloud is a suite of cloud services hosted on Google's infrastructure. From computing and storage, to data analytics, machine learning, and networking, Google Cloud offers a wide variety of services and APIs that can be integrated with any cloud-computing application or project—be it personal or enterprise-grade.
+
+In this introductory-level lab, you will take your first steps with Google Cloud by getting hands-on practice with the Cloud Console—an in-browser UI that lets you access and manage Google Cloud services. You will identify key features of Google Cloud and also learn the ins and outs of the Qwiklabs environment. If you are new to cloud computing or looking for an overview of Google Cloud and Qwiklabs, you are in the right place. Read on to learn about the specifics of this lab and areas that you will get hands-on practice with.
+
+What you will learn
+In this lab, you will do the following:
+
+Learn about the Qwiklabs platform and identify key features of a lab environment.
+
+Learn about (and possibly purchase) Qwiklabs credits and launch an instance of a lab.
+
+Learn how to access the Cloud Console with specific credentials.
+
+Learn about Google Cloud projects and identify common misconceptions that surround them.
+
+Learn how to use the Google Cloud Navigation menu to identify types of Google Cloud services.
+
+Learn about primitive roles and use the Cloud IAM service to inspect actions available to specific users.
+
+Learn about Cloud Shell and run commands that use the gcloud toolkit.
+
+Learn about the API library and examine its chief features.
+
+Use tools that are pre-installed in Cloud Shell and run commands like touch, nano, and cat to create, edit, and output the content of files.
+
+Prerequisites
+This is an introductory level lab and the first lab you should take if you're unfamiliar with Google Cloud or Qwiklabs. If you are already experienced with Qwiklabs and the Cloud Console, check out the following labs (if you decide to take one, make sure you end your lab now):
+
+Getting Started with Cloud Shell and gcloud
+Creating a Virtual Machine
+Once you're ready, scroll down to get your lab set up.
+
+Join Qwiklabs to read the rest of this lab...and more!
+Get temporary access to the Google Cloud Console.
+Over 200 labs from beginner to advanced levels.
+Bite-sized so you can learn at your own pace.
