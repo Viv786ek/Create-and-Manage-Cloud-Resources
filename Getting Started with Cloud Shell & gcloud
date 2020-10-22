@@ -1,0 +1,23 @@
+#Getting Started with Cloud Shell & gcloud
+45 minutes
+1 Credit
+GSP002
+Google Cloud Self-Paced Labs
+
+Overview
+Google Cloud Shell provides you with gcloud command-line access to computing resources hosted on the Google Cloud. Cloud Shell is a Debian-based virtual machine with a persistent 5GB home directory, which makes it easy for you to manage your Google Cloud projects and resources. The Cloud SDK gcloud and other utilities you need come pre-installed in Cloud Shell, which allows you to get up and running quickly.
+
+In this hands-on lab you will learn how to connect to computing resources hosted on the Google Cloud via Cloud Shell with the gcloud command-line.
+
+Students are encouraged to type the commands themselves, which reinforces the core concepts. Many labs will include a code block that contains the required commands. You can easily copy and paste the commands from the code block into the appropriate places during the lab.
+
+What you'll do
+Practice using gcloud commands.
+Connect to compute services hosted on the Google Cloud.
+Prerequisites
+Familiarity with standard Linux text editors such as vim, emacs, or nano.
+
+Join Qwiklabs to read the rest of this lab...and more!
+Get temporary access to the Google Cloud Console.
+Over 200 labs from beginner to advanced levels.
+Bite-sized so you can learn at your own pace.
