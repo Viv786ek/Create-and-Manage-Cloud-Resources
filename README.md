@@ -1,2 +1,2 @@
 # Crelate-and-Manage-Cloud-Resources
-QwickLab
+QwickLab.com
