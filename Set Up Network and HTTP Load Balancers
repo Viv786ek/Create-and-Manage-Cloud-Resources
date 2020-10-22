@@ -1,0 +1,29 @@
+#Set Up Network and HTTP Load Balancers
+40 minutes
+5 Credits
+GSP007
+Google Cloud Self-Paced Labs
+
+Overview
+In this hands-on lab you'll learn the differences between a network load balancer and a HTTP load balancer, and how to set them up for your applications running on Compute Engine virtual machines.
+
+There are several ways you can load balance in Google Cloud. This lab takes you through the setup of the following load balancers.:
+
+L4 Network Load Balancer
+L7 HTTP(s) Load Balancer
+Students are encouraged to type the commands themselves, which helps in learning the core concepts. Many labs include a code block that contains the required commands. You can easily copy and paste the commands from the code block into the appropriate places during the lab.
+
+What you'll do
+Setup a network load balancer.
+
+Setup a HTTP(s) load balancer.
+
+Get hands-on experience learning the differences between network load balancers and HTTP load balancers.
+
+Prerequisites
+Familiarity with standard Linux text editors such as vim, emacs, or nano is helpful.
+
+Join Qwiklabs to read the rest of this lab...and more!
+Get temporary access to the Google Cloud Console.
+Over 200 labs from beginner to advanced levels.
+Bite-sized so you can learn at your own pace.
