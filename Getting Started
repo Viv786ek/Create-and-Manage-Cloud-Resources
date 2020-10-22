@@ -1,0 +1,7 @@
+#Getting Started: Create and Manage Cloud Resources
+Introductory 6 Steps 5 hours 13 Credits
+
+In this introductory-level Quest, you will get hands-on practice with Google Cloud’s fundamental tools and services. Getting Started: Create and Manage Cloud Resources is the recommended first Quest for the Google Cloud learner - you will come in with little or no prior cloud knowledge, and come out with practical experience that you can apply to your first Google Cloud project. From writing Cloud Shell commands and deploying your first virtual machine, to running applications on Kubernetes Engine or with load balancing, Getting Started: Create and Manage Cloud Resources is a prime introduction to the basic features of Google Cloud. Complete this quest, including the challenge lab at the end, to receive an exclusive Google Cloud digital badge. 1-minute videos walk you through key concepts for each lab.
+
+Prerequisites:
+This Quest assumes little to no prior knowledge in cloud computing or with Google Cloud. It is expected that students have an information technology or computing background, and have some hands-on familiarity with administering computing systems. Prior work with shell environments / command line interfaces will be helpful for completing the labs in this series.
