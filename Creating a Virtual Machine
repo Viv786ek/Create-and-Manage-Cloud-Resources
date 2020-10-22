@@ -1,0 +1,24 @@
+#Creating a Virtual Machine
+40 minutes
+1 Credit
+GSP001
+Google Cloud Self-Paced Labs
+
+Overview
+Compute Engine lets you create virtual machines running different operating systems, including multiple flavors of Linux (Debian, Ubuntu, Suse, Red Hat, CoreOS) and Windows Server, on Google infrastructure. You can run thousands of virtual CPUs on a system that has been designed to be fast and to offer strong consistency of performance.
+
+In this hands-on lab you'll learn how to create virtual machine instances of various machine types using the Google Cloud Console and using the gcloud command line. You'll also learn how to connect an NGINX web server to your virtual machine.
+
+Although you can easily copy and paste commands from the lab to the appropriate place, students should type the commands themselves to reinforce their understanding of the core concepts
+
+What you'll do
+Create a virtual machine with the Cloud Console
+Create a virtual machine with gcloud command line
+Deploy a web server and connect it to a virtual machine
+Prerequisites
+Familiarity with standard Linux text editors such as vim, emacs, or nano will be helpful
+
+Join Qwiklabs to read the rest of this lab...and more!
+Get temporary access to the Google Cloud Console.
+Over 200 labs from beginner to advanced levels.
+Bite-sized so you can learn at your own pace.
